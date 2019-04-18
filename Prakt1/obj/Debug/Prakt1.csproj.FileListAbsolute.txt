@@ -1,0 +1,2 @@
+D:\github\Prakt1\Prakt1\obj\Debug\Prakt1.csprojAssemblyReference.cache
+D:\github\Prakt1\Prakt1\obj\Debug\Prakt1.csproj.CoreCompileInputs.cache

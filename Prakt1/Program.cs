@@ -10,6 +10,9 @@ namespace Prakt1
     {
         static void Main(string[] args)
         {
+            ClassIzd arr = new ClassIzd("Шапка Мономаха", "фыв123", 4);
+            arr.GetInfo();
+            Console.ReadKey();
         }
     }
 }
